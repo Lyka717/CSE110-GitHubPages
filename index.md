@@ -23,6 +23,8 @@
 - **Current Favorite Color:** `#95b8b8`
 - **Desk Pets:** It all just <sup>Kirby</sup> figurines
 - **Favorite Game:** ***I just like Roblox***
+- **Hobby:** Arts & crafts
+  - Recently made a wooden hairstick at DIB's makerspace
 
 ## Currently Working On
 Currently in ERSP program associating Prof. Voccaro whose research is geared towards social computing.
